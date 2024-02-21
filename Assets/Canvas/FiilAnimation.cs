@@ -22,4 +22,10 @@ public class FiilAnimation : MonoBehaviour
 
     }
 
+
+    public void ButtonClick()
+    {
+        Debug.Log("Ты нажал на кнопку!!!");
+    }
+
 }
